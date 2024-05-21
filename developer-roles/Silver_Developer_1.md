@@ -123,3 +123,8 @@
 **Représenter CodeBuster en dehors de l'entreprise (p. ex. conférences)**
 * Vous pouvez faire une présentation complète au groupe de programmation local.
 * Vous contribuez à notre blog d'ingénierie.
+
+## 🐙 Communeauté CodeBuster
+* Etre force de proposition dans la vie de la squad :
+* mettre en place de nouveaux rituels et ateliers
+* Proposer des sujets présentations 
