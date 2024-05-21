@@ -40,7 +40,7 @@
 **Revues de code**
 * Vous examinez les pull requests pour apprendre comment l'équipe procède, même si vous n'avez pas l'intention de les réviser. Vous posez des questions pour mieux comprendre le code.
 
-## 🐙 Communeauté CodeBuster
+## 🐙 Communauté CodeBuster
 * Vous présentez un sujet déjà vu en mission
 * Vous participez aux rituels et n'hésite pas à poser des questions pour éclaircir ses doutes
 * Vous approfondissez de son côté les sujets présentés en rituel
