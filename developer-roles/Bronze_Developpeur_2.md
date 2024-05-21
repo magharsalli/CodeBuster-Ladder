@@ -1,4 +1,4 @@
-# Bronze Developer II
+# Developpeur Bronze II
 
 
 ## 💻 Tech
@@ -54,3 +54,8 @@
 
 **Structurer un projet de grande envergure en parties gérables / livrables**.
 * Vous participez activement aux réunions de planification de votre équipe et vous aidez à diviser les gros projets en tâches plus petites avec les membres de l'équipe.
+
+## 🐙 Communauté CodeBuster
+* Vous présentez un sujet déjà vu en mission
+* Vous participez aux rituels et n'hésite pas à poser des questions pour éclaircir ses doutes
+* Vous approfondissez de son côté les sujets présentés en rituel
