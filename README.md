@@ -6,11 +6,11 @@ de ces attentes pour être promu au niveau suivant. Il n'y a pas de mal à avoir
 attentes dans d'autres domaines. Lorsqu'un membre de l'équipe passe d'un niveau au niveau suivant, il doit
 avoir répondu à toutes les attentes du niveau actuel.
 
-## Developer Roles
+## Developpeur CB
 - [Bronze 1](/developer-roles/Bronze_Developer_1.md)
 - [Bronze 2](/developer-roles/Bronze_Developer_2.md)
 - [Silver](/developer-roles/Silver_Developer_1.md)
-# Glossary
+# Glossaire
 
 ### Squad
 Nous formons des groupes de projet (que nous appelons « squads »)
