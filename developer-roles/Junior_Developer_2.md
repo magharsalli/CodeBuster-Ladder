@@ -4,28 +4,28 @@
 ## 💻 Tech
 
 **Expertise dans nos langages et frameworks "core"**
-*Vous connaissez la syntaxe de base de l'un de nos principaux langages de programmation et avez déjà exploré certaines des structures du langage plus compliquées.
-*Vous avez une compréhension de base des parties les plus fréquemment utilisées des frameworks/bibliothèques avec lesquels vous travaillez - .Net, StdLib, React, Angular, Java...
+* Vous connaissez la syntaxe de base de l'un de nos principaux langages de programmation et avez déjà exploré certaines des structures du langage plus compliquées.
+* Vous avez une compréhension de base des parties les plus fréquemment utilisées des frameworks/bibliothèques avec lesquels vous travaillez - .Net, StdLib, React, Angular, Java...
 
 **Expertise en matière d'infrastructure et d'outillage**
-*Vous avez une compréhension de base des technologies fondamentales (comme le protocole HTTP, les bases de données relationnelles, ...).*
-*Vous êtes désireux d'apprendre à connaître les infrastructures clients.*
+* Vous avez une compréhension de base des technologies fondamentales (comme le protocole HTTP, les bases de données relationnelles, ...).
+* Vous êtes désireux d'apprendre à connaître les infrastructures clients.*
 
 **Capacité à explorer et à maîtriser de nouveaux sujets techniques**
-*Vous êtes capable de rechercher une nouvelle bibliothèque prédéterminée de taille / complexité minimale et de l'intégrer dans notre application.
-*Vous êtes capable d'approcher une bibliothèque inconnue qui ne fait pas partie d'un cadre de base, et de comprendre les tâches de base avec l'aide d'un autre membre de l'équipe.
+* Vous êtes capable de rechercher une nouvelle bibliothèque prédéterminée de taille / complexité minimale et de l'intégrer dans notre application.
+* Vous êtes capable d'approcher une bibliothèque inconnue qui ne fait pas partie d'un cadre de base, et de comprendre les tâches de base avec l'aide d'un autre membre de l'équipe.
 
 **Écrire du code / des solutions lisibles et faciles à maintenir**
-*Les pull requests que vous soumettez nécessitent généralement quelques retours avant d'être fusionnées.
-*Vous avez commencé à penser aux cas limites et à inclure des tests lorsqu'ils vous viennent à l'esprit.
+* Les pull requests que vous soumettez nécessitent généralement quelques retours avant d'être fusionnées.
+* Vous avez commencé à penser aux cas limites et à inclure des tests lorsqu'ils vous viennent à l'esprit.
 
 **Gestion de la dette technique**
-*Vous êtes capable de prendre en charge des tickets de refactoring simples définis par quelqu'un d'autre avec l'aide d'un autre membre de l'équipe.
+* Vous êtes capable de prendre en charge des tickets de refactoring simples définis par quelqu'un d'autre avec l'aide d'un autre membre de l'équipe.
 
 **Gestion des sources**
-*Vous êtes à l'aise avec les commandes git de base comme add, commit, push, pull, branch.
+* Vous êtes à l'aise avec les commandes git de base comme add, commit, push, pull, branch.
 
-🎯 Self management / Focus
+## 🎯 Self management / Focus
 
 **Rechercher et agir en fonction d'un feedback**
 * Vous accueillez favorablement les commentaires sur vos PRs et vous vous améliorez en conséquence.
