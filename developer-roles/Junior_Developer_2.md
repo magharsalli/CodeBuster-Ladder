@@ -1,65 +1,57 @@
-# Junior Developer II
+# Bronze Developer II
 
 
 ## 💻 Tech
 
-**Expertise in our "core" languages and frameworks**
-* You know the basic syntax of one of our core programming languages - Ruby, JavaScript, Dart, and have already explored some of the more complicated language constructs.
-* You have a basic understanding of the most frequently used parts of the frameworks/libraries that you work with – Ruby on Rails, React, or Flutter.
+**Expertise dans nos langages et frameworks "core"**
+*Vous connaissez la syntaxe de base de l'un de nos principaux langages de programmation et avez déjà exploré certaines des structures du langage plus compliquées.
+*Vous avez une compréhension de base des parties les plus fréquemment utilisées des frameworks/bibliothèques avec lesquels vous travaillez - .Net, StdLib, React, Angular, Java...
 
-**Expertise in infrastructure and tooling**
-* You have a basic understanding of the core technologies (like the HTTP protocol, relational databases, …)
-* You are eager to learn about our infrastructure setup and start taking responsibilities in the support channel.
+**Expertise en matière d'infrastructure et d'outillage**
+*Vous avez une compréhension de base des technologies fondamentales (comme le protocole HTTP, les bases de données relationnelles, ...).
+*Vous êtes désireux d'apprendre à connaître les infrastructures clients.
 
-**Ability to explore and master a new technical topic**
-* You are able to research a pre-determined new library of minimal size / complexity and integrate it into our application.
-* You are able to approach an unfamiliar library in the codebase that falls outside a core framework, and figure out basic tasks with some help from another team member.
+**Capacité à explorer et à maîtriser de nouveaux sujets techniques**
+*Vous êtes capable de rechercher une nouvelle bibliothèque prédéterminée de taille / complexité minimale et de l'intégrer dans notre application.
+*Vous êtes capable d'approcher une bibliothèque inconnue qui ne fait pas partie d'un cadre de base, et de comprendre les tâches de base avec l'aide d'un autre membre de l'équipe.
 
-**Write readable and maintainable code / solutions**
-* The pull requests that you submit typically require a few rounds of feedback before they are merged.
-* You have started to think of the edge cases and include tests for them when they occur to you
+**Écrire du code / des solutions lisibles et faciles à maintenir**
+*Les pull requests que vous soumettez nécessitent généralement quelques retours avant d'être fusionnées.
+*Vous avez commencé à penser aux cas limites et à inclure des tests lorsqu'ils vous viennent à l'esprit.
 
-**Managing technical debt**
-* You are able to take on simple refactoring tickets defined by someone else with help from another team member.
+**Gestion de la dette technique**
+*Vous êtes capable de prendre en charge des tickets de refactoring simples définis par quelqu'un d'autre avec l'aide d'un autre membre de l'équipe.
 
-**Source control**
-* You are comfortable with basic git commands like add, commit, push, pull, branch.
+**Gestion des sources**
+*Vous êtes à l'aise avec les commandes git de base comme add, commit, push, pull, branch.
 
+🎯 Self management / Focus
 
-## 🎯 Self management / Focus
+**Rechercher et agir en fonction d'un feedback**
+* Vous accueillez favorablement les commentaires sur vos PRs et vous vous améliorez en conséquence.
 
-**Look for and act upon feedback**
-* You welcome feedback on your PRs and improve based on it.
+**Gérer les blocages, gérer son temps et aller jusqu'au bout**
+* Vous travaillez sur de petites tâches dans le cadre de votre équipe actuelle et les terminez la plupart du temps sans l'aide d'autrui.
+* Vous êtes capable d'accomplir des tâches de taille moyenne avec l'aide d'autres membres de l'équipe et vous contribuez positivement à la production de votre équipe.
+* Il est tout à fait normal que vous soyez bloqué dans les tâches qui vous sont assignées. Vous apprenez à en faire part aux autres membres de l'équipe et à trouver de l'aide.
 
-**Handling "being stuck" / time management / following through**
-* You work on small tasks from the scope of your current squad and complete them mostly without help from others
-* You are able to complete  medium sized tasks with the help of other team members and you contribute positively to the output of your squad
-* It is totally fine that you get stuck on the tasks assigned to you. You are learning how to communicate that to the other team members and find help.
+**Réflexion personnelle et amélioration continue. Conscience de ses propres forces et faiblesses**
+* Vous êtes curieux et vous voulez acquérir de nouvelles compétences. Vous recherchez ces opportunités de manière proactive
+* Vous souhaitez découvrir d'autres technologies que celle sur laquelle vous vous êtes concentré.
 
-**Self reflection and continuous self improvement. Awareness of own strengths and weaknesses.**
-* You are curious and you want to learn new skills. You proactively search for these opportunities
-* You're interested in learning about other technologies beyond the one you've been focusing on
+## 💬 Communication et collaboration
 
+**Vous interagissez bien avec les membres de l'équipe**
+* Vous êtes sympathique et agréable à travailler.
 
-## 💬 Communication & Collaboration
+**Vous apprenez à interagir avec les collègues et les clients**
+* Vous apprenez à interagir avec des collègues d'autres départements en tant qu'observateur.
 
-**Interact well with team members**
-* You are friendly and pleasant to work with.
-
-**Help improve our team process**
-* When asked for it, you participate in our existing team processes by note-taking, and documenting changes in Don't panic.
-
-**Interact well with business stakeholders / customers**
-* You learn how to interact with colleagues from other departments by joining the support team as an observer.
-
-**Code Reviews**
-* You regularly look at the open pull requests. You point out things that you don't understand and ask questions about the implementation. You start giving feedback on things that you already learned.
-
-**Remote work**
-* You are comfortable pairing with colleagues that work remotely.
+**Revues de code**
+* Vous regardez régulièrement les demandes de PRs. Vous signalez les choses que vous ne comprenez pas et posez des questions sur l'implémentation. Vous commencez à donner votre avis sur les choses que vous avez déjà apprises.
 
 
-## ⏳ Project management
+## ⏳ Gestion de projet
 
-**Structure a large project into manageable parts / deliverables**
-* You actively participate in planning meetings of your squad and help with splitting up large tickets into smaller tasks together with squad members.
+**Structurer un projet de grande envergure en parties gérables / livrables**.
+* Vous participez activement aux réunions de planification de votre équipe et vous aidez à diviser les gros projets en tâches plus petites avec les membres de l'équipe.
