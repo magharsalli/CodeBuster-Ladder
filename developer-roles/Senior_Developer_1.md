@@ -1,126 +1,125 @@
-# Senior Developer I
+# Développeur Silver
 
 
 ## 💻 Tech
 
-**Expertise in our "core" languages and frameworks**
-* You have a deep knowledge of one of our core languages (Ruby, JavaScript, Dart), including more rarely used parts. You have a solid understanding of at least a second one (Ruby, Javascript, Dart, Elixir)
-* You have a deep knowledge of the frameworks we use (Ruby on Rails, React, or Flutter), including some of the more rarely used parts.
+**Vous avez une connaissance approfondie de l'un de nos langages de base et des parties plus rarement utilisées.**
+* Vous avez une connaissance approfondie de l'un de nos langages de base, y compris des parties plus rarement utilisées. Vous avez une solide compréhension d'au moins un langage de scripting.
 
-**Expertise in infrastructure and tooling**
-* You have a deep understanding of the core technologies (like the HTTP protocol, relational databases, …).
-* You take responsibilities in the support channel and do deployments
-* You have a deep understanding of our infrastructure setup, and can participate in troubleshooting problems in this area.
+**Expertise en infrastructure et outillage**
+* Vous avez une connaissance approfondie des technologies de base (comme le protocole HTTP, les bases de données relationnelles, ...).
+* Vous prenez des responsabilités dans le canal de support et faites des déploiements.
+* Vous avez une connaissance approfondie de notre infrastructure et pouvez participer à la résolution de problèmes dans ce domaine.
 
-**Ability to explore and master a new technical topic**
-* You are able to research a new library of substantial size / complexity and integrate it into our application
-* You can learn new technologies or languages independently.
-* You are an expert in one or more technical areas and from that you have learned the tools and practices to explore new topics efficiently
+**Vous êtes capable d'explorer et de maîtriser un nouveau sujet technique.**
+* Vous êtes capable de rechercher une nouvelle bibliothèque de taille / complexité substantielle et de l'intégrer dans notre application.
+* Vous êtes capable d'apprendre de nouvelles technologies ou de nouveaux langages de manière indépendante.
+* Vous êtes un expert dans un ou plusieurs domaines techniques et, à partir de là, vous avez appris les outils et les pratiques pour explorer efficacement de nouveaux sujets.
 
-**Know what else is out there**
-* You are interested in how other companies are solving similar problems and comparing our solutions with theirs.
-* You keep on top of developments related to our core technologies.
-
-**Write readable and maintainable code / solutions**
-* Your PRs are of good quality on first try and require minimal feedback to be excellent.
-* You think of most of the edge cases and include tests for them
-* You often take the performance and security implications of PRs into account
-* You can justify your decisions and understand the trade-offs between different approaches.
-* You can break down a large technical problem into clearly defined tasks.
-
-**Managing technical debt**
-* You are able to identify areas of the codebase in need of refactoring and come up with solutions.
-
-**Initiate positive change**
-* You point out areas that need improvement and suggest good solutions as a starting point for discussion. You look for the best solution within the team.
-
-**Source control**
-* You know how to maintain multiple branches you work on, rebase a branch, squash commits.
-* You can troubleshoot git problems of your colleagues.
+**Vous savez ce qu'il y a d'autre sur le marché**
+* Vous vous intéressez à la manière dont d'autres entreprises résolvent des problèmes similaires et comparez nos solutions avec les leurs.
+* Vous vous tenez au courant des développements liés à nos technologies de base.
 
 
-## 🎯 Self management / Focus
+**Écrire un code / des solutions lisibles et faciles à maintenir**
+* Vos PRs sont de bonne qualité dès le premier essai et ne nécessitent qu'un minimum de feedback pour être excellents.
+* Vous pensez à la plupart des cas de figure et vous incluez des tests pour ceux-ci.
+* Vous prenez souvent en compte les implications des PRs en termes de performance et de sécurité.
+* Vous pouvez justifier vos décisions et comprendre les compromis entre les différentes approches.
+* Vous pouvez décomposer un problème technique important en tâches clairement définies.
 
-**Look for and act upon feedback**
-* When receiving feedback in a PR you react to it, learn from it and adjust your future development style based on it
-* You proactively reach out to ask for feedback, for example after being squad coordinator for a season you ask your squad members for feedback
+**Vous pouvez décomposer un problème technique de grande ampleur en tâches clairement définies.**
+* Vous êtes capable d'identifier les zones de la base de code qui ont besoin d'être refactorées et de proposer des solutions.
 
-**Handling "being stuck" / time management / following through**
-* You know when to take a step back and try a different approach vs having to dig deeper and learn more details
-* You realize when you need help or other opinions and ask your team members
-* When you're not able to progress on one of your tasks (for example waiting for product answer or code review) you can switch to a different task.
+**Vous êtes capable d'identifier les domaines de la base de code qui ont besoin d'être remaniés et de proposer des solutions.**
+* Vous êtes capable d'identifier les domaines qui ont besoin d'être améliorés et de suggérer de bonnes solutions comme point de départ de la discussion. Vous recherchez la meilleure solution au sein de l'équipe.
 
-**Self reflection and continuous self improvement. Awareness of own strengths and weaknesses.**
-* You have a clear idea of the topics you want to learn and you identify new topics to add to this from your work
-* You easily acquire new knowledge
-* You admit mistakes and learn from them
+**Source Control**
+* Vous savez comment maintenir plusieurs branches sur lesquelles vous travaillez, rebaser une branche, écraser les commits.
+* Vous pouvez résoudre les problèmes de git de vos collègues.
 
+## 🎯 Self Management / Focus
 
-## 💬 Communication & Collaboration
+**Rechercher et agir sur le retour d'information**
+* Lorsque vous recevez un retour d'information dans le cadre d'une PR, vous y réagissez, vous en tirez des leçons et vous adaptez votre style de développement futur en fonction de ce retour d'information.
+* Vous demandez proactivement un retour d'information, par exemple après avoir été Team Lead pendant une sprint, vous demandez un retour d'information aux membres de votre équipe.
 
-**Interact well with team members**
-* You are friendly and pleasant to work with. You can resolve most of the personal conflicts by yourself – by reaching out and suggesting a conversation.
-* You can help others resolve a conflict – for example by suggesting to move a discussion from a PR to a meeting or by mediating.
+**Vous savez quand prendre un pas en avant et quand vous avez besoin d'aide.**
+* Vous savez quand prendre du recul et essayer une approche différente plutôt que de continuer à creuser.
+* Vous savez quand vous avez besoin d'aide ou d'autres opinions et vous demandez aux membres de votre équipe.
+* Lorsque vous n'êtes pas en mesure de progresser dans l'une de vos tâches (par exemple, lorsque vous attendez une réponse du produit ou une révision du code), vous pouvez passer à une autre tâche.
 
-**Help improve our team process**
-* You participate actively in our existing team processes by note-taking, scheduling meetings, and taking on action items from meetings. You document changes in our team process in Don't panic.
-* You offer suggestions to the wishes of others mentioned during a retrospective.
-* When you are not satisfied with some aspect of our team process you mention it during a retrospective, schedule and lead a meeting to resolve it.
+**Réflexion personnelle et amélioration continue. Conscience de ses propres forces et faiblesses.**
+* Vous avez une idée claire des sujets que vous souhaitez apprendre et vous identifiez de nouveaux sujets à ajouter à partir de votre travail.
+* Vous acquérez facilement de nouvelles connaissances
+* Vous admettez vos erreurs et en tirez des leçons
 
-**Interact well with business stakeholders / customers**
-* When a task you're working on benefits from a direct contact with the person requesting the change, you are able to formulate questions, present a draft of the implementation and incorporate feedback into your solution.
-* You participate in our support duty. You can identify what the problem is by asking correct questions. You point out work-arounds and clarify any confusion about the behaviour of the system.
+## 💬 Communication & Travail d'équipe
 
-**Help others succeed**
-* Helping others is a major part of your work day. You not only react to the help requests from your colleagues, but also actively search for the opportunities to help – within your squad, team or support team.
+**Vous avez de bonnes relations avec les membres de l'équipe.**
+* Vous êtes sympathique et agréable à côtoyer. Vous pouvez résoudre la plupart des conflits personnels par vous-même - en tendant la main et en suggérant une conversation.
+* Vous pouvez aider les autres à résoudre un conflit - par exemple en suggérant de déplacer une discussion d'une PR à une réunion ou en jouant le rôle de médiateur.
 
-**Code Reviews**
-* You deliver insightful code reviews. You can assess how the pull request fits into the bigger picture and spot major logic errors. You notice and suggest opportunities for refactorings. Your reviews are constructive and when you are not satisfied with some area you can help the author with implementing a better alternative.
-* You actively influence our coding guidelines based on your experience from reviewing multiple PRs.
+**Améliorer les process de l'équipe**
+* Vous participez activement à nos processus d'équipe en prenant des notes, en planifiant des réunions et en prenant des mesures à la suite de ces réunions. Vous documentez les changements apportés à notre processus d'équipe dans un journal de bord.
+* Vous offrez des suggestions aux souhaits des autres mentionnés au cours d'une rétrospective.
+* Lorsque vous n'êtes pas satisfait d'un aspect de notre processus d'équipe, vous le mentionnez au cours d'une rétrospective, vous organisez et dirigez une réunion pour le résoudre.
 
-**Remote work**
-* It doesn't make a difference to the rest of the team whether you're remote or not.
+**Interagir avec les parties prenantes et les clients**
+* Vous êtes capable de formuler des questions, de présenter une ébauche de la mise en œuvre et d'incorporer un retour d'information dans votre solution.
+* Vous participez à notre service d'assistance. Vous pouvez identifier le problème en posant les bonnes questions. Vous indiquez des solutions de contournement et clarifiez toute confusion concernant le comportement du système.
 
-
-## ⏳ Project management
-
-**Translate a business requirement into a technical solution**
-* You ask the right questions to explore the important edge cases of the requirement
-* You notice where a new requirement conflicts with existing functionality or does not "fit well" with our software design and you suggest changes to the requirement to make it fit better and easier to implement
-* You build a mental model of the problem and can communicate it to and discuss it with your squad members (e.g. through whiteboarding)
-* You can come up with a workable technical design that solves the requirement
-* You involve your squad members in the discussion and encourage them to come up with solutions
-
-**Structure a large project into manageable parts / deliverables**
-* You are able to take a large project and turn it into manageable smaller parts that can individually be tested and have clear boundaries.
-* You break projects down so that the parts have minimal interdependencies and provide releasable features early
-
-**Risk management**
-* You proactively detect problems and risks within your squad or team, and communicate as well as mitigate them well
-
-**Organize a squad and its deliverables**
-* You take over the role of a squad coordinator frequently
-* You organize stand up and planning meetings for your squad
-* You keep track of the current progress of your squad and help your team members to clarify open questions
-* You work across teams (dev, QA, stakeholder) to ensure new code launches smoothly and user needs are met
-
-**Estimate and communicate progress and deadlines**
-* You can come up with estimates on the complexity and duration of a feature
-* You communicate progress proactively and express your concerns in case your squad is not on track
+**Aider les autres à réussir**
+* Aider les autres est une partie importante de votre journée de travail. Vous ne vous contentez pas de répondre aux demandes d'aide de vos collègues, mais vous recherchez activement les occasions d'aider - au sein de votre équipe ou de l'équipe d'assistance.
 
 
-## 🎓 Teaching / Coaching / Growing
+**Revues de code**
+* Vous fournissez des revues de code perspicaces. Vous êtes capable d'évaluer comment la demande s'intègre dans l'ensemble et de repérer les principales erreurs de logique. Vous remarquez et suggérez des opportunités de remaniement. Vos critiques sont constructives et lorsque vous n'êtes pas satisfait d'un aspect, vous pouvez aider l'auteur à mettre en œuvre une meilleure alternative.
+* Vous influencez activement nos directives de codage en vous basant sur l'expérience que vous avez acquise en examinant de nombreux PR.
 
-**Knowledge sharing**
-* You can write down guidelines in an area that you have more knowledge than others.
-* You can deliver a knowledge sharing presentation when others ask you for it.
+**Travail à distance**
+* Le fait que vous soyez à distance ou non ne fait pas de différence pour le reste de l'équipe.
 
-**Mentor more junior colleagues**
-* You can take the responsibility for an internship / traineeship. You set the short-term goals for the person, assign the tasks, and explain basic concepts.
 
-**Conduct interviews**
-* You participate in our technical interviews as one of a few interviewers. You can evaluate answers to our standard questions.
+## ⏳ Gestion de projet
+**Traduire une exigence commerciale en une solution technique**
+* Vous posez les bonnes questions pour explorer les cas limites importants de l'exigence.
+* Vous remarquez qu'une nouvelle exigence entre en conflit avec une fonctionnalité existante ou qu'elle ne correspond pas à la conception de notre logiciel et vous suggérez des changements à l'exigence pour qu'elle soit mieux adaptée et plus facile à mettre en œuvre.
+* Vous construisez un modèle mental du problème et pouvez le communiquer et en discuter avec les membres de votre équipe (par exemple au moyen d'un tableau blanc).
+* Vous pouvez proposer une conception technique réalisable qui résout l'exigence.
+* Vous impliquez les membres de votre équipe dans la discussion et les encouragez à proposer des solutions.
 
-**(bonus) Represent Liefery outside the company (e.g. Conferences)**
-* You can deliver a full presentation at the local programming group.
-* You contribute to our engineering blog.
+**Structurer un grand projet en parties gérables / livrables**
+
+* Vous êtes capable de prendre un projet de grande envergure et de le transformer en petites parties gérables qui peuvent être testées individuellement et dont les limites sont claires.
+* Vous décomposez les projets de manière à ce que les parties aient un minimum d'interdépendances et à ce que les fonctionnalités puissent être publiées rapidement.
+
+**Gestion des risques**
+
+* Vous détectez de manière proactive les problèmes et les risques au sein de votre équipe, vous les communiquez et vous les atténuez.
+
+**Organiser une équipe et ses livrables**
+* Vous assumez fréquemment le rôle de coordinateur d'équipe.
+* Vous organisez des réunions de préparation et de planification pour votre équipe.
+* Vous suivez les progrès de votre équipe et aidez les membres de votre équipe à clarifier les questions en suspens.
+* Vous travaillez avec plusieurs équipes (développement, assurance qualité, parties prenantes) pour vous assurer que le nouveau code est lancé en douceur et que les besoins des utilisateurs sont satisfaits.
+
+**Estimer et communiquer les progrès et les délais**
+* Vous pouvez estimer la complexité et la durée d'une fonctionnalité.
+* Vous communiquez les progrès de manière proactive et exprimez vos préoccupations si votre équipe n'est pas sur la bonne voie.
+
+##🎓 Enseigner / Coacher / Cultiver
+
+**Partage des connaissances**
+* Vous pouvez rédiger des lignes directrices dans un domaine où vous avez plus de connaissances que les autres.
+* Vous pouvez faire une présentation de partage des connaissances lorsque les autres vous le demandent.
+* Encadrer des collègues plus jeunes
+
+* Vous pouvez prendre la responsabilité d'un stage ou d'une formation. Vous fixez les objectifs à court terme de la personne, lui assignez les tâches et lui expliquez les concepts de base.
+
+**Faire passer des entretiens**
+* Vous participez à nos entretiens techniques en tant que l'un des quelques intervieweurs. Vous pouvez évaluer les réponses à nos questions standard.
+
+**Représenter CodeBuster en dehors de l'entreprise (p. ex. conférences)**
+* Vous pouvez faire une présentation complète au groupe de programmation local.
+* Vous contribuez à notre blog d'ingénierie.
