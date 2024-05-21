@@ -108,7 +108,7 @@
 * Vous pouvez estimer la complexité et la durée d'une fonctionnalité.
 * Vous communiquez les progrès de manière proactive et exprimez vos préoccupations si votre équipe n'est pas sur la bonne voie.
 
-##🎓 Enseigner / Coacher / Cultiver
+## 🎓 Enseigner / Coacher / Cultiver
 
 **Partage des connaissances**
 * Vous pouvez rédiger des lignes directrices dans un domaine où vous avez plus de connaissances que les autres.
