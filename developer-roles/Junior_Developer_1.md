@@ -1,45 +1,41 @@
-# Junior Developer I
+# Bronze Developer III
 
 
 ## 💻 Tech
 
-**Expertise in our "core" languages and frameworks**
-* You know the basic syntax of one of our core programming languages - Ruby, JavaScript, Dart. It is totally fine to struggle with more complicated language constructs.
-* You understand the core concepts of the frameworks/libraries that you use – Ruby on Rails, React, or Flutter.
+**Expertise dans nos langages et frameworks "core".
+* Vous connaissez la syntaxe de base de l'un de nos principaux langages de programmation. Il est tout à fait acceptable d'avoir des difficultés avec des structures du langage plus compliquées.
+* Vous comprenez les concepts de base des frameworks/bibliothèques que vous utilisez - .Net, StdLib, React, Angular, Java...
 
-**Ability to explore and master a new technical topic**
-* You are eager to learn about programming topics such as: basics of databases, HTTP protocol basics, structuring code in web applications as well as smaller libraries that you need in your day to day work. You usually need help from other team members to understand these topics.
+**Vous êtes capable d'explorer et de maîtriser de nouveaux sujets techniques.
+* Vous êtes désireux d'apprendre sur divers sujets de programmation ainsi que sur les petites bibliothèques dont vous avez besoin dans votre travail quotidien. Vous avez souvent besoin de l'aide des autres membres de l'équipe pour comprendre ces sujets.
 
-**Write readable and maintainable code / solutions**
-* The pull requests that you submit typically require a few rounds of feedback before they are merged.
+**Écrire du code / des solutions lisibles et faciles à maintenir.
+* Les pull requests que vous soumettez requièrent typiquement quelques tours de feedback avant d'être fusionnées.
 
-**Source control**
-* You are familiarizing yourself with git.
+**Gestion des sources**
+* Vous vous familiarisez avec une technologie de gestion de source.
 
 
 ## 🎯 Self management / Focus
 
-**Continuous self improvement. Know how you work best**
-* You are curious and you want to learn new skills. You proactively search for these opportunities and try to be gradually more involved in team processes and extra activities.
+**Amélioration continue de soi. Savoir comment vous travaillez au mieux**
+* Vous êtes curieux et vous voulez acquérir de nouvelles compétences. Vous recherchez proactivement ces opportunités et essayez d'être progressivement plus impliqué dans les processus de l'équipe et les activités annexes.
 
-**Look for and act upon feedback**
-* You welcome feedback on your PRs and improve based on it.
+**Vous êtes curieux et vous voulez apprendre de nouvelles compétences.
+* Vous accueillez volontiers les commentaires sur vos PR et vous vous améliorez en conséquence.
 
-**Handling "being stuck" / time management / following through**
-* You work on small tasks from the scope of your current squad. These tasks have a detailed description, no open product questions and are generally well-defined. You are able to complete them with the help of other team members and you contribute positively to the output of your squad.
-* It is totally fine that you often get stuck on the tasks assigned to you. You are learning how to communicate that to the other team members and find help.
+**Gérer les blocages, gérer le temps et aller jusqu'au bout** 
+* Vous travaillez sur de petites tâches à partir de la première semaine.
+* Vous travaillez sur de petites tâches dans le cadre de votre équipe actuelle. Ces tâches ont une description détaillée, pas de questions ouvertes sur le produit et sont généralement bien définies. Vous êtes en mesure de les mener à bien avec l'aide des autres membres de l'équipe. 
 
+## 💬 Communication et collaboration
 
-## 💬 Communication & Collaboration
+**Vous interagissez bien avec les membres de l'équipe
+* Vous êtes sympathique et agréable au travail.
 
-**Interact well with team members**
-* You are friendly and pleasant to work with.
+**Vous vous sentez à l'aise avec les membres de l'équipe** 
+* Vous apprenez à interagir avec des collègues d'autres départements par exemple en rejoignant progressivement l'équipe en tant qu'observateur.
 
-**Interact well with business stakeholders / customers**
-* You learn how to interact with colleagues from other departments by gradually joining the support team as an observer.
-
-**Code Reviews**
-* You look at pull requests to learn how we do things, even if you are not intending to review them. You ask questions to better understand the code.
-
-**Remote work**
-* You are familiarizing yourself with our remote work practices by participating in remote meetings and becoming comfortable with video calls.
+**Revues de code**
+* Vous examinez les pull requests pour apprendre comment l'équipe procède, même si vous n'avez pas l'intention de les réviser. Vous posez des questions pour mieux comprendre le code.
