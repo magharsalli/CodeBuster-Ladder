@@ -125,6 +125,6 @@
 * Vous contribuez à notre blog d'ingénierie.
 
 ## 🐙 Communeauté CodeBuster
-* Etre force de proposition dans la vie de la squad :
-* mettre en place de nouveaux rituels et ateliers
-* Proposer des sujets présentations 
+* Vous êtes force de proposition dans la vie de la squad :
+* Vous mettez en place de nouveaux rituels et ateliers
+* Vous proposez des sujets présentations 
