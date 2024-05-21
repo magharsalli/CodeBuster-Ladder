@@ -1,4 +1,4 @@
-# Developpeur Bronze
+# Développeur Bronze
 
 
 ## 💻 Tech
