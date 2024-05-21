@@ -124,7 +124,7 @@
 * Vous pouvez faire une présentation complète au groupe de programmation local.
 * Vous contribuez à notre blog d'ingénierie.
 
-## 🐙 Communeauté CodeBuster
+## 🐙 Communauté CodeBuster
 * Vous êtes force de proposition dans la vie de la squad :
 * Vous mettez en place de nouveaux rituels et ateliers
 * Vous proposez des sujets présentations 
