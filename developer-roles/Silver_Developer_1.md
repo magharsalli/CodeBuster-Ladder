@@ -108,6 +108,11 @@
 * Vous pouvez estimer la complexité et la durée d'une fonctionnalité.
 * Vous communiquez les progrès de manière proactive et exprimez vos préoccupations si votre équipe n'est pas sur la bonne voie.
 
+## 🐙 Communauté CodeBuster
+* Vous êtes force de proposition dans la vie de la squad :
+* Vous mettez en place de nouveaux rituels et ateliers
+* Vous proposez des sujets présentations
+  
 ## 🎓 Enseigner / Coacher / Cultiver
 
 **Partage des connaissances**
@@ -123,8 +128,3 @@
 **Représenter CodeBuster en dehors de l'entreprise (p. ex. conférences)**
 * Vous pouvez faire une présentation complète au groupe de programmation local.
 * Vous contribuez à notre blog d'ingénierie.
-
-## 🐙 Communauté CodeBuster
-* Vous êtes force de proposition dans la vie de la squad :
-* Vous mettez en place de nouveaux rituels et ateliers
-* Vous proposez des sujets présentations 
